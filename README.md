@@ -1,4 +1,8 @@
 <p>Nothing fancy, just testing Deno.</p>
-<img src="https://deno.land/logo.svg" width="32px">
+<a href ="https://deno.land"><img src="https://deno.land/logo.svg" width="32px"></a>
 
-<code>deno run --params fileName.ts</code>
+## Run
+
+```sh
+deno run --params fileName.ts
+```
